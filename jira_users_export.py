@@ -11,8 +11,8 @@ from requests.auth import HTTPBasicAuth
 # ============================================================
 
 JIRA_BASE_URL = "http://48.200.96.84:8080/"
-JIRA_USERNAME = "admin"
-JIRA_PASSWORD = "admin"
+JIRA_USERNAME = "XXX"
+JIRA_PASSWORD = "XXX"
 
 OUTPUT_CSV = "jira_users_export.csv"
 
